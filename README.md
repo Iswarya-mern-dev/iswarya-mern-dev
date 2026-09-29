@@ -1,6 +1,6 @@
 # Hi, I'm Iswarya 👋
 
-### MERN Stack Developer | Visakhapatnam
+### MERN Stack Developer 
 
 🚀 Passionate about building full-stack apps with MongoDB, Express, React & Node.js
 
