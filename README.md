@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Iswarya 👋
 
-<!--
-**Iswarya-mern-dev/iswarya-mern-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | Visakhapatnam
 
-Here are some ideas to get you started:
+🚀 Passionate about building full-stack apps with MongoDB, Express, React & Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Projects
+
+#### 1. MERN Task Manager ✅
+- Full Stack app with React, Node.js, Express & MongoDB
+- Features: Add / Edit / Delete tasks, REST API
+- 🔗 [View Code](https://github.com/Iswarya-mem-dev/task-manager)
+
+#### 2. MERN Expense Tracker 💰
+- Full Stack with JWT Authentication & Dashboard Charts
+- Features: Income/Expense tracking
+- 🔗 [View Code](https://github.com/Iswarya-mem-dev/expense-tracker)
+
+#### 3. Personal Portfolio 🌐
+- 🔗 [Live Portfolio](https://Iswarya-mem-dev.github.io/portfolio/)
+
+### 🛠️ Tech Stack
+`JavaScript` `React` `Node.js` `Express` `MongoDB` `HTML` `CSS` `Git`
